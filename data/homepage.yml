@@ -180,26 +180,26 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Abe"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/user-picture-3.png"
+    _2x: "img/who-am-i/user-picture-3.png"
     
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:abe@abeburnett.com'
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "(385) 333-2068"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:abe@abeburnett.com">abe@abeburnett.com</a>'
   address:
     title: "Address"
-    address: "--"
+    address: "Ogden, UT 84404"
   
 
 # newsletter
