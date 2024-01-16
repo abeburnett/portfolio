@@ -4,9 +4,9 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Matt Dancho."
+  title: "Howdy, I’m Abe Burnett."
   subtitle: "Data Scientist"
-  description: "Matt is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  description: "Abe helps businesses unlock vast value using data science and in combination with his unique tenacity, resilience, and adaptability. Few data scientists possess his ability to build effective bridges between business, operations, and product which produce the digital transformation organizations seek, but are frequently unsure how to execute."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
@@ -16,39 +16,15 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    btnText: "Contact Abe"
+    URL: "mailto:abe@abeburnett.com"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com"
+      URL: "https://www.linkedin.com/in/abeburnett"
 
     - icon: "github"
-      URL: "https://github.com"
-
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://github.com/abeburnett"
 
 # about
 about:
@@ -68,7 +44,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/abeburnett"
   image:
     x: "img/who-am-i/user-picture-2.jpg"
     _2x: "img/who-am-i/user-picture-2.jpg"
@@ -77,46 +53,37 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 13+ years of experience producing ROI for companies in different industries, ranging from banking, to finance, to life sciences, and education. I excel at using data science to solve problems and produce profitability for businesses and improve the experience of their customers."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/abeburnett"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "#"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Senior Data Scientist"
+      company: "Pluralsight"
+      duration: "2016 - 2023"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Senior Data Scientist"
+      company: "CipherBio"
+      duration: "2018 - 2019"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Data Scientist"
+      company: "National Funding"
+      duration: "2014 - 2016"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
-
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
-      
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
-
+    - university: "Montana State University"
+      year: "2007 - 2015"
+      degree: "Bachelor's of Science in Economics"
 
 
 # Client & Work
