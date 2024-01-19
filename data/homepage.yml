@@ -154,28 +154,28 @@ testimonial:
   title: "Testimonials"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Michelle Keim, PhD"
+      position: "VP of Data Science, Pluralsight"
+      content: "As a Senior Data Scientist in my department, Abe often wore several hats; acting a product manager, technical advisor, and hands-on technical contributor. He is skilled at envisioning the possibilities for applications of data science and data science products and then developing a technical strategy to execute on them. He is capable of being a direct contributor, a collaborator, and a team leader. He is business savvy and has a bias towards action."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/michelle.jpg"
+        _2x: "img/testimonials/michelle.jpg"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    - name: "Pierre Cooper"
+      position: "Principal Consultant"
+      content: "Abe is a maestro of innovation and while working at Pluralsight I was able to benefit from his customer focused mindset on a number of important projects. Abe is a kind and generous colleague and always open to helping on projects to get them over the line. The next team that gets to work with him is really lucky and will benefit from this broad knowledge on how to bring insights to the customer."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "img/testimonials/pierre.jpg"
+        _2x: "img/testimonials/pierre.jpg"
 
     
 
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    - name: "Dave Tanner"
+      position: "Senior Project Manager"
+      content: "A senior product manager at Pluralsight, I had the privilege to work with Abe on a number of projects. He was wonderful to work with and always brings a lot of creativity and energy to the work he did. I also appreciated his very pragmatic and outcome-oriented approach to problem solving. Plus, he’s just a really good, positive person. I would love to work with Abe again."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "img/testimonials/dave.jpg"
+        _2x: "img/testimonials/dave.jpg"
 
 # contact
 contact:
