@@ -162,14 +162,14 @@ testimonial:
         _2x: "img/testimonials/michelle.jpeg"
         
     - name: "Pierre Cooper"
-      position: "Principal Consultant"
+      position: "Principal Consultant, Pluralsight"
       content: "Abe is a maestro of innovation and while working at Pluralsight I was able to benefit from his customer focused mindset on a number of important projects. Abe is a kind and generous colleague and always open to helping on projects to get them over the line. The next team that gets to work with him is really lucky and will benefit from this broad knowledge on how to bring insights to the customer."
       image:
         x: "img/testimonials/pierre.jpeg"
         _2x: "img/testimonials/pierre.jpeg"
 
     - name: "Dave Tanner"
-      position: "Senior Project Manager"
+      position: "Senior Project Manager, Pluralsight"
       content: "A senior product manager at Pluralsight, I had the privilege to work with Abe on a number of projects. He was wonderful to work with and always brings a lot of creativity and energy to the work he did. I also appreciated his very pragmatic and outcome-oriented approach to problem solving. Plus, he’s just a really good, positive person. I would love to work with Abe again."
       image:
         x: "img/testimonials/dave.jpeg"
