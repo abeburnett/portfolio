@@ -32,15 +32,14 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
-    </p>
+    <strong>Data Science Meets Business Impact</strong>  
+    I specialize in transforming data into actionable insights that drive business growth, optimize processes, and deliver measurable ROI. With a decade of experience across industries, I’ve honed my expertise in tools like Python, R, SQL, and Tableau to create data-driven solutions that solve real-world problems.  
+    </p>  
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <strong>Passionate Problem Solver</strong>  
+    Backed by a strong foundation in Economics, Mathematics, and Statistics, I thrive on identifying patterns, unlocking value, and leading teams to success. Whether collaborating with stakeholders or presenting complex findings, my focus is on turning data into better decisions.  
     </p>
+
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -64,6 +63,10 @@ experience:
     URL: "#"
 
   items:
+    - title: "Senior Data Scientist"
+      company: "Vantage Risk"
+      duration: "2024 - Present"
+      
     - title: "Senior Data Scientist"
       company: "Pluralsight"
       duration: "2016 - 2023"
@@ -89,7 +92,7 @@ education:
 # Client & Work
 client_and_work:
   title: "Portfolio"
-  enable: true
+  enable: false
   
   enable_clients: false
   clients:
