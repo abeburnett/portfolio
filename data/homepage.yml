@@ -32,11 +32,13 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>Data Science Meets Business Impact</strong>  
+    <strong>Data Science Meets Business Impact</strong> 
+    <br>
     I specialize in transforming data into actionable insights that drive business growth, optimize processes, and deliver measurable ROI. With a decade of experience across industries, I’ve honed my expertise in tools like Python, R, SQL, and Tableau to create data-driven solutions that solve real-world problems.  
     </p>  
     <p class="lead">
     <strong>Passionate Problem Solver</strong>  
+    <br>
     Backed by a strong foundation in Economics, Mathematics, and Statistics, I thrive on identifying patterns, unlocking value, and leading teams to success. Whether collaborating with stakeholders or presenting complex findings, my focus is on turning data into better decisions.  
     </p>
 
